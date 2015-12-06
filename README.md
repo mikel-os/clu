@@ -16,6 +16,10 @@ So to overcome this problematic and reuse the solution as much I can with the sa
 * ... which can be adapted to other spartan systems quickly.
 * ... where most features can be modified (or disabled for compilation) easily.
 
+## Documentation
+
+See [docs/en/README.md](./docs/en/README.md)
+
 ## License
 
 >Command Line Lightweight Utility - A simple shell for Linux and Plan 9.  
@@ -33,3 +37,6 @@ GNU General Public License for more details.
 >You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+Note Uniform Version Numbering has its own license.  
+See [docs/en/development/version_naming/uniform_version_numbering.md](./docs/en/development/version_naming/uniform_version_numbering.md)
